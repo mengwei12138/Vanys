@@ -1,0 +1,52 @@
+{
+    "attribute": {
+        "age": "\u6210\u5e74",
+        "birth": "\u4e2d\u56fd",
+        "constellation": "\u6c34\u74f6\u5ea7",
+        "contact": "17347802049",
+        "gender": "\u7537",
+        "hobby": "\u8db3\u7403",
+        "job": "\u8f6f\u4ef6\u8bbe\u8ba1\u5e08",
+        "name": "Vanys",
+        "voice": "XIAO_XIAO",
+        "zodiac": "\u725b"
+    },
+    "interact": {
+        "QnA": "qa_demo.xlsx",
+        "maxInteractTime": 15,
+        "perception": {
+            "chat": 7,
+            "follow": 10,
+            "gift": 50,
+            "indifferent": 10,
+            "join": 10
+        },
+        "playSound": false
+    },
+    "items": [
+        {
+            "QnA": "",
+            "demoVideo": "",
+            "enabled": false,
+            "explain": {
+                "character": "",
+                "discount": "",
+                "intro": "",
+                "price": "",
+                "promise": "",
+                "usage": ""
+            },
+            "name": ""
+        }
+    ],
+    "source": {
+        "liveRoom": {
+            "enabled": false,
+            "url": "\u65b0\u7248\u672c\u4e0d\u7528\u586b\u5199"
+        },
+        "record": {
+            "device": "\u9ea6\u514b\u98ce (HUAWEI USB-C HEADSET)",
+            "enabled": true
+        }
+    }
+}
