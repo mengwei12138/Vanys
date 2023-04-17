@@ -21,7 +21,7 @@
             "indifferent": 10,
             "join": 10
         },
-        "playSound": false
+        "playSound": true
     },
     "items": [
         {
@@ -29,14 +29,14 @@
             "demoVideo": "",
             "enabled": false,
             "explain": {
-                "character": "",
-                "discount": "",
-                "intro": "",
-                "price": "",
-                "promise": "",
-                "usage": ""
+                "character": "123",
+                "discount": "123",
+                "intro": "123",
+                "price": "123",
+                "promise": "123",
+                "usage": "123"
             },
-            "name": ""
+            "name": "\u5546\u54c1\u540d\u79f0"
         }
     ],
     "source": {
